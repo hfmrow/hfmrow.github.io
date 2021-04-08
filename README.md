@@ -1,6 +1,3 @@
-| **<mark>Software</mark>** |
-| ------------------------- |
-
 **Software**
 
 - ##### [hash-me](https://hfmrow.github.io/hash-me)
