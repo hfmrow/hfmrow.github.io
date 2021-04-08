@@ -1,4 +1,3 @@
 theme: jekyll-theme-tactile
-masthead: images/FileStamper-300x29.png
-# title: hfmrow's github repositories
+title: hfmrow's repositories
 description: Golang Linux software using gotk3. Utilities that improve the life of users / developers.
